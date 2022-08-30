@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     # link: '/#contact'
-    link: mailto:zyan760@connect.hkust-gz.edu.cn
+    link: "mailto:zyan760@connect.hkust-gz.edu.cn"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
