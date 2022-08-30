@@ -71,8 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  {{< staticref "https://hongcezh.people.ust.hk/" "newtab" >}} Prof. Hongce Zhang {{< /staticref >}}. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  {{< staticref "https://hongcezh.people.ust.hk/" "newtab" >}} Prof. Hongce Zhang {{< /staticref >}}. My research interests include machine learning-aided formal verification, Boolean satisfiability problem and Physically unclonable functions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "D:\starter-hugo-academic\CV_fromlatex.pdf" "newtab" >}} CV {{< /staticref >}}.
+
+<!-- resumé -->
