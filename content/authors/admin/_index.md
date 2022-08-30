@@ -10,7 +10,7 @@ role: Ph.D of Microelectronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Stanford University Hong Kong University of Science and Technology (GZ)
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
