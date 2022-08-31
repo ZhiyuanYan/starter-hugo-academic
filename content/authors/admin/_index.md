@@ -65,13 +65,13 @@ social:
   link: uploads/CV_fromlatex.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zyan760@connect.hkust-gz.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  {{< staticref "https://hongcezh.people.ust.hk/" "newtab" >}} Prof. Hongce Zhang {{< /staticref >}}. My research interests include machine learning-aided formal verification, Boolean satisfiability problem and Physically unclonable functions.
+Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  [Prof. Hongce Zhang] (https://hongcezh.people.ust.hk/). My research interests include machine learning-aided formal verification, Boolean satisfiability problem and Physically unclonable functions.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_fromlatex.pdf" "newtab" >}} CV {{< /staticref >}}.
