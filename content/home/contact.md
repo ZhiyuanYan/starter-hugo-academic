@@ -28,7 +28,7 @@ content:
   email: YANZ0010@connect.hkust-gz.edu.cn
   phone: 183 1924 5184
   address:
-    street: 450 Serra Mall
+    street: Hong Kong University of Science and Technology (GZ)
     city: Guangzhou 
     region: CHN
     postcode: '510050'
