@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: YANZ0010@connect.hkust-gz.edu.cn
+  email: zyan760@connect.hkust-gz.edu.cn
   phone: 183 1924 5184
   address:
     street: Hong Kong University of Science and Technology (GZ)
