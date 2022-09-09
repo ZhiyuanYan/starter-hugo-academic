@@ -33,7 +33,7 @@ content:
     region: CHN
     postcode: '510050'
     country: China
-    country_code: US
+    # country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
