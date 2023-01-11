@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  Prof. Hongce Zhang (https://hongcezh.people.ust.hk). My research interests include hardware formal verification, Boolean satisfiability problem and machine learning for EDA.
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_fromlatex.pdf" "newtab" >}}CV{{< /staticref >}}.
