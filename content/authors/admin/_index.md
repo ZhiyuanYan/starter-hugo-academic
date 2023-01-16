@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yan Zhiyuan
+title: Zhiyuan Yan
 
 # Full name (for SEO)
 first_name: Zhiyuan
