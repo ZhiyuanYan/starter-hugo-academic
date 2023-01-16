@@ -60,7 +60,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -79,12 +79,19 @@ sections:
           date_end: ''
         - title: Master in Microelectronics
           company: Nanyang Technological University
-          company_url: ''
-          company_logo: org-x
-          location: Singgapore
+          company_url: 'https://www.ntu.edu.sg/'
+          company_logo: ntu
+          location: Singapore
           date_start: '2021-01-11'
           date_end: '2022-03-01'
-    design:
+        - title: BSc in Electronic Information Science and Technology
+          company: Henan University
+          company_url: ''
+          company_logo: org-x
+          location: Kaifeng, China
+          date_start: '2016-09-01'
+          date_end: '2020-06-20'
+design:
       columns: '2'
   - block: experience
     content:
