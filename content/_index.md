@@ -73,7 +73,7 @@ sections:
         - title: Ph.D. student in Microelectronics Thrust
           company: Hong Kong University of Science and Technology (GZ)
           company_url: 'https://hkust-gz.edu.cn/'
-          company_logo: org-gc
+          company_logo: hkust
           location: Guangzhou, China
           date_start: '2022-09-01'
           date_end: ''
@@ -86,8 +86,8 @@ sections:
           date_end: '2022-03-01'
         - title: BSc in Electronic Information Science and Technology
           company: Henan University
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www.henu.edu.cn/'
+          company_logo: henanu
           location: Kaifeng, China
           date_start: '2016-09-01'
           date_end: '2020-06-20'
