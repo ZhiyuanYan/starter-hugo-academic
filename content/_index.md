@@ -58,7 +58,7 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
@@ -81,10 +81,9 @@ sections:
           company: Nanyang Technological University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Singgapore
+          date_start: '2021-01-11'
+          date_end: '2022-3-1'
     design:
       columns: '2'
   - block: experience
