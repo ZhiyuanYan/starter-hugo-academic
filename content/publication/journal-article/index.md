@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "American Chemical Society"
-publication_short: "ACS"
+publication_short: "ACS Appl. Mater. Interfaces"
 
 abstract: Anticounterfeiting technology has received tremendous interest for its significance in daily necessities, medical industry, and high-end products. Confidential tags based on photoluminescence are one of the most widely used approaches for their vivid visualization and high throughput. However, the complexity of confidential tags is generally limited to the accessibility of inks and their spatial location; generating an infinite combination of emission colors is therefore a challenging task. Here, we demonstrate a concept to create complex color light mixing in a confined space formed by microscale optofluidic concave interfaces. Infinite color combination and capacity were generated through chaotic behavior of light mixing and interaction in an ininkjet-printed skydome structure. Through the chaotic mixing of emission intensity, wavelength, and light propagation trajectories, the visionary patterns serve as a highly unclonable label. Finally, a deep learning-based machine vision system was built for the authentication process. The developed anticounterfeiting system may provide inspiration for utilizing space color mixing in optical security and communication applications.
 
@@ -60,7 +60,7 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
