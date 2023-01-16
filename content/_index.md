@@ -59,11 +59,11 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: experience
+    id: education
     content:
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      id: education
       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
@@ -95,9 +95,9 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
-      id: experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -311,15 +311,15 @@ sections:
       #     name: Zoom Me
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
