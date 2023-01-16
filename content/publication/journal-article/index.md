@@ -32,8 +32,8 @@ abstract: Anticounterfeiting technology has received tremendous interest for its
 # Summary. An optional shortened abstract.
 summary: light mixing optofluidics anticounterfeiting concave interface deep learning
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
