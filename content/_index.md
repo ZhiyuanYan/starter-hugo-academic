@@ -91,7 +91,7 @@ sections:
           location: Kaifeng, China
           date_start: '2016-09-01'
           date_end: '2020-06-20'
-design:
+    design:
       columns: '2'
   - block: experience
     content:
