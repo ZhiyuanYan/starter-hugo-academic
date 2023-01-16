@@ -83,7 +83,7 @@ sections:
           company_logo: org-x
           location: Singgapore
           date_start: '2021-01-11'
-          date_end: '2022-3-1'
+          date_end: '2022-03-01'
     design:
       columns: '2'
   - block: experience
