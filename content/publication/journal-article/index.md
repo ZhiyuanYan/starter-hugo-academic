@@ -1,7 +1,7 @@
 ---
 title: "Multicolor Light Mixing in Optofluidic Concave Interfaces for Anticounterfeiting with Deep Learning Authentication"
 authors:
--Chenlu Wang
+- Chenlu Wang
 - admin
 - Chaoyang Gong
 - Hui Xie
