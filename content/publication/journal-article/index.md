@@ -1,16 +1,21 @@
 ---
-title: "An example journal article"
+title: "Multicolor Light Mixing in Optofluidic Concave Interfaces for Anticounterfeiting with Deep Learning Authentication"
 authors:
+-Chenlu Wang
 - admin
-- Robert Ford
+- Chaoyang Gong
+- Hui Xie
+- Zhen Qiao
+- Zhiyi Yuan
+- Yu-Cheng Chen*
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-02-17T00:00:00Z"
+doi: "https://pubs.acs.org/doi/10.1021/acsami.1c22466"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "American Chemical Society"
+publication_short: "ACS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Anticounterfeiting technology has received tremendous interest for its significance in daily necessities, medical industry, and high-end products. Confidential tags based on photoluminescence are one of the most widely used approaches for their vivid visualization and high throughput. However, the complexity of confidential tags is generally limited to the accessibility of inks and their spatial location; generating an infinite combination of emission colors is therefore a challenging task. Here, we demonstrate a concept to create complex color light mixing in a confined space formed by microscale optofluidic concave interfaces. Infinite color combination and capacity were generated through chaotic behavior of light mixing and interaction in an ininkjet-printed skydome structure. Through the chaotic mixing of emission intensity, wavelength, and light propagation trajectories, the visionary patterns serve as a highly unclonable label. Finally, a deep learning-based machine vision system was built for the authentication process. The developed anticounterfeiting system may provide inspiration for utilizing space color mixing in optical security and communication applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: light mixing optofluidics anticounterfeiting concave interface deep learning
 
 tags:
 - Source Themes
@@ -34,14 +39,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
