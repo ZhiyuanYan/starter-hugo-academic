@@ -81,4 +81,4 @@ highlight_name: true
 Hi! My name is Greg, Yan Zhiyuan. I am a first-year Ph.D. student in Microelectronics Thrust, advised by  Prof. Hongce Zhang (https://hongcezh.people.ust.hk). My research interests include hardware formal verification, Boolean satisfiability problem and machine learning for EDA.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_fromlatex.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads\CV_YanZhiyuan.pdf" "newtab" >}}CV{{< /staticref >}}.
