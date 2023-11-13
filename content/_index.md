@@ -119,18 +119,18 @@ sections:
 
               * Solved the Boolean Satisfiablity problem (SAT) via machine learning
               * Explored opportunities in the SAT solving and hardware formal verification with the help of the machine learning
-        - title: R&D Intern
-          company: Seeland Company-Guangzhou Sanshiqidu Smart Home Co., Ltd. 
-          company_url: ''
-          company_logo: 
-          location: Guangzhou, China
-          date_start: '2020-08-01'
-          date_end: '2020-12-01'
-          description: |2-
-              Responsibilities include:
+        # - title: R&D Intern
+        #   company: Seeland Company-Guangzhou Sanshiqidu Smart Home Co., Ltd. 
+        #   company_url: ''
+        #   company_logo: 
+        #   location: Guangzhou, China
+        #   date_start: '2020-08-01'
+        #   date_end: '2020-12-01'
+        #   description: |2-
+        #       Responsibilities include:
 
-              * Used Altium Designer to design PCB circuit boards for smart cushions, furnace temperature monitoring alarms and other projects, and test existing projects
-              * Welded circuit boards and assembling electronic products
+        #       * Used Altium Designer to design PCB circuit boards for smart cushions, furnace temperature monitoring alarms and other projects, and test existing projects
+        #       * Welded circuit boards and assembling electronic products
           # Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
