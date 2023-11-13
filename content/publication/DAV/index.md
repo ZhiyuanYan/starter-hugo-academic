@@ -1,5 +1,4 @@
 ---
-
 title: "The Elephant in the Room: Variable Dependency in GNN-based SAT Solving"
 authors:
 - admin
@@ -7,7 +6,6 @@ authors:
 - Zhengyuan Shi
 - Wenjie Zhang
 - Ying-Cong Chen
-- Zhiyi Yuan
 - Hongce Zhang
 author_notes:
 # - "Equal contribution"
