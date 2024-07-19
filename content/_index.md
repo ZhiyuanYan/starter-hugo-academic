@@ -246,8 +246,8 @@ sections:
     # design:
     #   columns: '2'
     #   view: card
-  - block: publication
-    id: publication
+  - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: 
@@ -261,7 +261,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      # view: citation
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
