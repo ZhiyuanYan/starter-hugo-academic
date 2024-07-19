@@ -36,5 +36,5 @@ summary: Boolean Satisfiability Problem, Machine Learning
 
 # tags:
 # - Source Themes
-featured: true
+featured: false
 ---
