@@ -257,7 +257,7 @@ sections:
         # {{% /callout %}}
       filters:
         folders:
-          - DATE23
+          - publication
           - ./publication/ICCAD24
         exclude_featured: false
     design:
