@@ -258,7 +258,7 @@ sections:
       filters:
         folders:
           - DATE23
-          - ICCAD24
+          - ./publication/ICCAD24
         exclude_featured: false
     design:
       columns: '2'
