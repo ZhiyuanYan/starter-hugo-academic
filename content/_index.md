@@ -246,8 +246,8 @@ sections:
     # design:
     #   columns: '2'
     #   view: card
-  - block: collection
-    id: featured
+  - block: publication
+    id: publication
     content:
       title: Recent Publications
       text: 
@@ -258,8 +258,7 @@ sections:
       filters:
         folders:
           - publication
-          - ICCAD24
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       # view: citation

@@ -1,5 +1,5 @@
 ---
-title: "AsymSAT: Accelerating SAT Solving with Asymmetric Graph-based Model Prediction" in DATE
+title: "AsymSAT: Accelerating SAT Solving with Asymmetric Graph-based Model Prediction"
 authors:
 - admin
 - Min Li
@@ -36,5 +36,5 @@ summary: Boolean Satisfiability Problem, Machine Learning
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 ---
