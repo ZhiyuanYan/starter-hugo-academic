@@ -13,7 +13,7 @@ author_notes:
 # - "Equal contribution"
 date: "2024-03-31T00:00:00Z"
 # doi: "10.1021/acsami.1c22466"
-url_pdf:"https://ieeexplore.ieee.org/abstract/document/10546648?casa_token=5Mjjz5IwqTsAAAAA:W_ruOKbuyjBK2LqZuwYs5th24tDVPObTWJyRmSxio_bW-l6TfyHREvguHOKqk5NG3FRw49cKpAQ"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10546648?casa_token=5Mjjz5IwqTsAAAAA:W_ruOKbuyjBK2LqZuwYs5th24tDVPObTWJyRmSxio_bW-l6TfyHREvguHOKqk5NG3FRw49cKpAQ"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-31T00:00:00Z"
 
