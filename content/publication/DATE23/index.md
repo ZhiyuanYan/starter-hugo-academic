@@ -1,5 +1,5 @@
 ---
-title: "AsymSAT: Accelerating SAT Solving with Asymmetric Graph-based Model Prediction"
+title: "AsymSAT: Accelerating SAT Solving with Asymmetric Graph-based Model Prediction" in DATE
 authors:
 - admin
 - Min Li
