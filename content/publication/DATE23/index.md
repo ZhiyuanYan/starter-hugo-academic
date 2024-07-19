@@ -6,7 +6,6 @@ authors:
 - Zhengyuan Shi
 - Wenjie Zhang
 - Ying-Cong Chen
-- Zhiyi Yuan
 - Hongce Zhang
 author_notes:
 # - "Equal contribution"
