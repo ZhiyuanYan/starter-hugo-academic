@@ -7,7 +7,7 @@ authors:
 - Hui Xie
 - Zhen Qiao
 - Zhiyi Yuan
-- Yu-Cheng Chen*
+- Yu-Cheng Chen
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
