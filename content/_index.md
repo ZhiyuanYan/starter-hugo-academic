@@ -260,7 +260,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '4'
       # view: citation
   # - block: collection
   #   id: talks
