@@ -11,6 +11,9 @@ authors:
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
+# Publication name and optional abbreviated publication name.
+publication: "Design, Automation and Test in Europe"
+publication_short: "DATE"
 date: "2024-03-31T00:00:00Z"
 # doi: "10.1021/acsami.1c22466"
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/10546648?casa_token=5Mjjz5IwqTsAAAAA:W_ruOKbuyjBK2LqZuwYs5th24tDVPObTWJyRmSxio_bW-l6TfyHREvguHOKqk5NG3FRw49cKpAQ"
@@ -24,9 +27,7 @@ publishDate: "2024-03-31T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: "Design, Automation and Test in Europe"
-publication_short: "DATE"
+
 
 abstract: Though graph neural networks (GNNs) have been used in SAT solution prediction, for a subset of symmetric SAT problems, we unveil that the current GNN-based end-to-end SAT solvers are bound to yield incorrect outcomes as they are unable to break symmetry in variable assignments. In response, we introduce AsymSAT, a new GNN architecture coupled where a recurrent neural network is (RNN) to produce asymmetric models. Moreover, we bring up a method to integrate machine-learning-based SAT assignment prediction with classic SAT solvers and demonstrate its performance on non-trivial SAT instances including logic equivalence checking and cryptographic analysis problems with as much as 75.45% time saving.
 
