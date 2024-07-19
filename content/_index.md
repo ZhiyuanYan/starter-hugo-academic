@@ -258,7 +258,7 @@ sections:
       filters:
         folders:
           - publication
-          - ./publication/ICCAD24
+          - ICCAD24
         exclude_featured: false
     design:
       columns: '2'
