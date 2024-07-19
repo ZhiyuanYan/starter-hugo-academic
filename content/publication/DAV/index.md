@@ -12,7 +12,7 @@ author_notes:
 # - "Equal contribution"
 date: "2023-06-02T00:00:00Z"
 # doi: "10.1021/acsami.1c22466"
-
+url_pdf: "https://openreview.net/forum?id=yOyxNRK5MOM"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-02T00:00:00Z"
 
