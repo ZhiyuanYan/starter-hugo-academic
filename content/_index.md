@@ -258,6 +258,7 @@ sections:
       filters:
         folders:
           - publication
+          - ICCAD24
         exclude_featured: false
     design:
       columns: '2'
